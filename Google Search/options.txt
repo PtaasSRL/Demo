@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\mcarlosa\Documents\VuGen\Scripts\Google Search
+-IC:\Program Files (x86)\Micro Focus\Virtual User Generator\include
+-ec:\users\mcarlosa\documents\vugen\scripts\google search\\logfile.log
+c:\users\mcarlosa\documents\vugen\scripts\google search\\combined_Google Search.c
+c:\users\mcarlosa\documents\vugen\scripts\google search\\pre_cci.c
